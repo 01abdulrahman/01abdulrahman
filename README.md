@@ -1,4 +1,4 @@
-# 👋 Hello, I'm DevRahm (Abdur Rahman Apu)
+# 👋 Hello, I'm DevRahm (Abdurahman.)
 
 ### 💻 Front-End Developer | JavaScript • React • Tailwind CSS • UI/UX
 
